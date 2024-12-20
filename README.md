@@ -1,1 +1,1 @@
-Im going insane 
+print "Hello world" 
